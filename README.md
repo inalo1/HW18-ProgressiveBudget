@@ -20,7 +20,12 @@ When brought back online:
 * Link: [Heroku]()
 
 ## Budget Tracker Overview:
+Accessibility & Functionality Online:
 ![Screenshot 2021-03-11 005817](https://user-images.githubusercontent.com/73044038/110749023-28272200-8206-11eb-85e9-02d8def37ad6.png)
+
+Adding Transactions Offline:
 ![Screenshot 2021-03-11 010252](https://user-images.githubusercontent.com/73044038/110749029-2a897c00-8206-11eb-9c64-333c4958d6d1.png)
+
+Back Online:
 ![Screenshot 2021-03-11 010358](https://user-images.githubusercontent.com/73044038/110749036-2bbaa900-8206-11eb-9ea9-2d77a57da66c.png)
 
